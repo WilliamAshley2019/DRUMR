@@ -127,3 +127,13 @@ Steps to reproduce.
 Screenshots/logs.
 
 
+
+
+
+
+
+
+
+FUTURE NEEDS IMPORTANT DEVELOPMENT GOALS
+Improve GUI
+Get better CPU results - as currently it is relatively cpu hungry. so optmization is defiantely needed.
