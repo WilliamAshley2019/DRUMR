@@ -3,14 +3,15 @@
 DRUMR is a professional aspiring drum-shaping VST3 audio effect plugin designed to add punch, warmth, and clarity to percussive sounds.
 Built with JUCE 8.0.9 and Steinberg’s VST3 SDK, this plugin offers music producers and audio engineers intuitive controls for sculpting
 drums in genres from classic rock to modern electronic music.
-Developed by William Ashley, DRUMR is another concept peice of a budding suite of audio tools showcased at on various videos and demo songs
-that can be found at [William Ashley’s portfolio](https://www.hopp.bio/william-ashley). As an aspirant hobbyist aiming to expand music
-industry knowlege incuding plugins the aim is to continue to learn and grow with plugin development along side the music I am jamming.
+Developed by William Ashley, DRUMR is another concept peice of a budding suite of audio tools showcased in various demo jams
+that can be found at [William Ashley’s portfolio] (https://12264447666william.wixsite.com/williamashley). As an aspirant hobbyist aiming to expand music industry knowlege incuding plugins the aim is to continue to learn and grow with plugin development along side the music I am jamming.
 So today I thought I would see if I can make something like a transient shaper for drums applying some common elements of percussion
 sound engineering into a basic plugin. 
 
 Support the project at [Buy Me a Coffee](https://buymeacoffee.com/williamashley) 
 I also occassionally talk about how I have gone about designing or developing plugins [Medium](https://medium.com/@12264447666.williamashley).
+
+Check out my youtube where I may drop videos on what I am developing or how I am using tools like these https://www.hopp.bio/william-ashley
 
 **Keywords**: drum-shaping VST plugin, audio effect plugin, JUCE VST3 plugin, drum processing, music production, transient shaper, saturation, compressor, EQ, gate, clipper.
 
